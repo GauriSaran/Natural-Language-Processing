@@ -21,7 +21,7 @@ The project steps includes:
 
 
 ### Data Source
-Data has been taken from freely available resource on the Web.
+Data has been taken from freely available resource on the Web
 URL: http://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection 
 
 The SMS Spam Collection is a public set of SMS labeled messages that have been collected for mobile phone spam research.
